@@ -8,3 +8,6 @@ There are two ways to use SortaSort2. One is to run it through Matlab. To do thi
     4. Now you can run SortaSort2 by typing `SortaSort2` into the command line.
 
 If you want to use it as a standalone application. You can download the .exe from [here](https://rutgers.box.com/s/adojtzosty1hg2r2migqicjgfzvsaiwi).
+
+## Thanks
+This program uses code from the MATLAB File Exchange. Thanks to Yair Altman ([findobj](https://www.mathworks.com/matlabcentral/fileexchange/14317-findjobj-find-java-handles-of-matlab-graphic-objects)) and Takeshi Ikuma ([inputsdlg](https://www.mathworks.com/matlabcentral/fileexchange/25862-inputsdlg-enhanced-input-dialog-box)).
